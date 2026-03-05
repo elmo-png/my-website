@@ -1,0 +1,7 @@
+KI_SPASS/
+  docs/
+    index.html
+    script.js
+    style.css
+    repo-root.txt   (optional)
+    my-website
